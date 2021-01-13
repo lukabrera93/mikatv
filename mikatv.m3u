@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PY | Tigo Sport*" tvg-logo="" group-title="PARAGUAY",PY | Tigo Sport*
+http://daleplay4k.ddns.net:8080/molina/12345/736188
+#EXTINF:-1 tvg-id="" tvg-name="PY | Tigo Sport+*" tvg-logo="" group-title="PARAGUAY",PY | Tigo Sport+*
+http://daleplay4k.ddns.net:8080/molina/12345/736189
+#EXTINF:-1 tvg-id="" tvg-name="PY | C9N" tvg-logo="" group-title="PARAGUAY",PY | C9N
+http://daleplay4k.ddns.net:8080/molina/12345/3411
+#EXTINF:-1 tvg-id="" tvg-name="PY | Gen TV" tvg-logo="" group-title="PARAGUAY",PY | Gen TV
+http://daleplay4k.ddns.net:8080/molina/12345/3412
+#EXTINF:-1 tvg-id="" tvg-name="PY | Farra Play" tvg-logo="" group-title="PARAGUAY",PY | Farra Play
+http://daleplay4k.ddns.net:8080/molina/12345/3413
+#EXTINF:-1 tvg-id="" tvg-name="PY | Lobo Station" tvg-logo="" group-title="PARAGUAY",PY | Lobo Station
+http://daleplay4k.ddns.net:8080/molina/12345/3415
+#EXTINF:-1 tvg-id="" tvg-name="PY | La Tele" tvg-logo="" group-title="PARAGUAY",PY | La Tele
+http://daleplay4k.ddns.net:8080/molina/12345/3416
+#EXTINF:-1 tvg-id="" tvg-name="PY | Paraguay TV" tvg-logo="" group-title="PARAGUAY",PY | Paraguay TV
+http://daleplay4k.ddns.net:8080/molina/12345/3418
+#EXTINF:-1 tvg-id="" tvg-name="PY | Paravision" tvg-logo="" group-title="PARAGUAY",PY | Paravision
+http://daleplay4k.ddns.net:8080/molina/12345/3419
+#EXTINF:-1 tvg-id="" tvg-name="PY | Red Guarani" tvg-logo="" group-title="PARAGUAY",PY | Red Guarani
+http://daleplay4k.ddns.net:8080/molina/12345/3422
+#EXTINF:-1 tvg-id="" tvg-name="PY | RPC" tvg-logo="" group-title="PARAGUAY",PY | RPC
+http://daleplay4k.ddns.net:8080/molina/12345/3423
+#EXTINF:-1 tvg-id="" tvg-name="PY | SNT" tvg-logo="" group-title="PARAGUAY",PY | SNT
+http://daleplay4k.ddns.net:8080/molina/12345/3424
+#EXTINF:-1 tvg-id="" tvg-name="PY | Sur TV" tvg-logo="" group-title="PARAGUAY",PY | Sur TV
+http://daleplay4k.ddns.net:8080/molina/12345/3425
+#EXTINF:-1 tvg-id="" tvg-name="PY | Telefuturo" tvg-logo="" group-title="PARAGUAY",PY | Telefuturo
+http://daleplay4k.ddns.net:8080/molina/12345/3426
+#EXTINF:-1 tvg-id="" tvg-name="PY | TV ABC" tvg-logo="" group-title="PARAGUAY",PY | TV ABC
+http://daleplay4k.ddns.net:8080/molina/12345/3427
+#EXTINF:-1 tvg-id="" tvg-name="PY | Unicanal" tvg-logo="" group-title="PARAGUAY",PY | Unicanal
+http://daleplay4k.ddns.net:8080/molina/12345/3430
+#EXTINF:-1 tvg-id="aandelatinamerica.pa" tvg-name="LAT-HD | A&E (CO)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_el_salvador.png" group-title="LATINOS HD",LAT-HD | A&E (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18423
+#EXTINF:-1 tvg-id="amc.co" tvg-name="LAT-HD | AMC (CO)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_el_salvador.png" group-title="LATINOS HD",LAT-HD | AMC (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18424
+#EXTINF:-1 tvg-id="axnlatinamerica.pa" tvg-name="LAT-HD | AXN (CO)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn_el_salvador.png" group-title="LATINOS HD",LAT-HD | AXN (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18425
+#EXTINF:-1 tvg-id="cartoonnetwork.pa" tvg-name="LAT-HD | Cartoon Network (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Cartoon Network (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18426
+#EXTINF:-1 tvg-id="cinecanal.pa" tvg-name="LAT-HD | Cine canal (CO)" tvg-logo="http://latinovodplus2.xyz/portadas/LATINOS_SD/cinecanal.png" group-title="LATINOS HD",LAT-HD | Cine canal (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18427
+#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="LAT-HD | Comedy Central (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Comedy Central (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18428
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Concert Channel (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Concert Channel (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18429
+#EXTINF:-1 tvg-id="dhehd.co" tvg-name="LAT-HD | DHE (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | DHE (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18430
+#EXTINF:-1 tvg-id="discoverychannellatinamerica.pa" tvg-name="LAT-HD | Discovery Channel (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Discovery Channel (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18431
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="LAT-HD | Discovery Home and Health (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Discovery Home and Health (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18432
+#EXTINF:-1 tvg-id="discoverykids.co" tvg-name="LAT-HD | Discovery Kids (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Discovery Kids (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18433
+#EXTINF:-1 tvg-id="discoverytheaterlatinamerica.pa" tvg-name="LAT-HD | Discovery Theater (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Discovery Theater (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18434
+#EXTINF:-1 tvg-id="disoveryworldlatinamerica.pa" tvg-name="LAT-HD | Discovery World (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Discovery World (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18435
+#EXTINF:-1 tvg-id="disneyenespanollatinamerica.pa" tvg-name="LAT-HD | Disney Chanel (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Disney Chanel (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18436
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="LAT-HD | El Gourmet (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | El Gourmet (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18437
+#EXTINF:-1 tvg-id="fox.co" tvg-name="LAT-HD | Fox (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fox (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18439
+#EXTINF:-1 tvg-id="foxlifelatinamerica.pa" tvg-name="LAT-HD | Fox Life (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fox Life (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18440
+#EXTINF:-1 tvg-id="foxlife.mx" tvg-name="LAT-HD | Fox Life Mex (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fox Life Mex (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18441
+#EXTINF:-1 tvg-id="foxactionhd.mx" tvg-name="LAT-HD | Fox Premium Action (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fox Premium Action (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18442
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Fox Premium Cinema (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fox Premium Cinema (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18444
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Fox Premium Classics (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fox Premium Classics (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18445
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Fox Premium Comedy (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fox Premium Comedy (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18446
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Fox Premium Family (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fox Premium Family (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18447
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Fox Premium Movies (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fox Premium Movies (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18448
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Fox Premium Series (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fox Premium Series (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18449
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Fox Premium Series Subtitulado (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fox Premium Series Subtitulado (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18450
+#EXTINF:-1 tvg-id="fxmovies.co" tvg-name="LAT-HD | Fx Movie Mex (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Fx Movie Mex (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18451
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Golden (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Golden (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18452
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Golden Premier (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Golden Premier (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18453
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | HBO 2 (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | HBO 2 (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18454
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | HBO Family (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | HBO Family (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18455
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | HBO (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | HBO (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18456
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | HBO Plus (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | HBO Plus (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18457
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | HBO Signature (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | HBO Signature (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18458
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | History Channel (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | History Channel (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18460
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Hola TV (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Hola TV (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18461
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Investigation Discovery (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Investigation Discovery (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18462
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | HBO pop (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | HBO pop (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18464
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | MTV (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | MTV (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18465
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Nat Geo Kids (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Nat Geo Kids (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18466
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Natgeo Wild (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Natgeo Wild (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18469
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | National Geographic Channel (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | National Geographic Channel (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18470
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Nick 2 (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Nick 2 (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18471
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Nickelodeon (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Nickelodeon (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18473
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Paramount Channel (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Paramount Channel (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18474
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Pasiones (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Pasiones (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18475
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Sony (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Sony (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18476
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Space (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Space (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18477
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | TLC (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | TLC (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18480
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | TNT (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | TNT (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18481
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | TNT Series (CO)" tvg-logo="" group-title="LATINOS HD",LAT-HD | TNT Series (CO)
+http://daleplay4k.ddns.net:8080/molina/12345/18482
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Discovery Familia" tvg-logo="" group-title="LATINOS HD",LAT-HD | Discovery Familia
+http://daleplay4k.ddns.net:8080/molina/12345/710583
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Telemundo (West)" tvg-logo="" group-title="LATINOS HD",LAT-HD | Telemundo (West)
+http://daleplay4k.ddns.net:8080/molina/12345/736085
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | UniMas" tvg-logo="" group-title="LATINOS HD",LAT-HD | UniMas
+http://daleplay4k.ddns.net:8080/molina/12345/736086
+#EXTINF:-1 tvg-id="" tvg-name="LAT-HD | Tarima" tvg-logo="" group-title="LATINOS HD",LAT-HD | Tarima
+http://daleplay4k.ddns.net:8080/molina/12345/736156
